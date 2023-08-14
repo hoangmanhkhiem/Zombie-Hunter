@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>2003</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2005</string>
+                </dict>
+                <key>Shooting Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2062</string>
+                </dict>
+                <key>Bullet Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2174</string>
+                </dict>
+                <key>Move Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2040</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2083</string>
+                </dict>
+                <key>Shoot Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>5559</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>5558</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>2009</string>
+                </array>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2928</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2932</string>
+                </dict>
+                <key>Shooting Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2942</string>
+                </dict>
+                <key>Bullet Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2944</string>
+                </dict>
+                <key>Move Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2946</string>
+                </dict>
+                <key>Defeated Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>2948</string>
+                </dict>
+                <key>Shoot Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>5559</string>
+                </dict>
+                <key>Defeated Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>5560</string>
+                </dict>
+                <key>components</key>
+                <array>
+                    <string>2930</string>
+                </array>
+            </dict>
+        </array>
+    </dict>
+</plist>

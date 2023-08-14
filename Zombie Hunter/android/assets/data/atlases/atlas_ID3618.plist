@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>PTModelSprite_ID4498</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0, 0}, {960, 977}}</string>
+                <key>offset</key>
+                <string>{0, 8}</string>
+                <key>rotated</key>
+                <string>false</string>
+                <key>sourceColorRect</key>
+                <string>{{32, 16}, {960, 977}}</string>
+                <key>sourceSize</key>
+                <string>{1024, 1024}</string>
+            </dict>
+            <key>PTModelSprite_ID4768</key>
+            <dict>
+                <key>frame</key>
+                <string>{{964, 0}, {855, 777}}</string>
+                <key>offset</key>
+                <string>{24, 15}</string>
+                <key>rotated</key>
+                <string>false</string>
+                <key>sourceColorRect</key>
+                <string>{{86, 72}, {855, 777}}</string>
+                <key>sourceSize</key>
+                <string>{979, 950}</string>
+            </dict>
+            <key>PTModelSprite_ID3617</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0, 981}, {1575, 612}}</string>
+                <key>offset</key>
+                <string>{-6, 2}</string>
+                <key>rotated</key>
+                <string>false</string>
+                <key>sourceColorRect</key>
+                <string>{{0, 6}, {1575, 612}}</string>
+                <key>sourceSize</key>
+                <string>{1586, 627}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <string>2</string>
+            <key>realTextureFileName</key>
+            <string>atlas_ID3618.png</string>
+            <key>size</key>
+            <string>{2048, 2048}</string>
+            <key>smartupdate</key>
+            <string>$Potion:Smartupdate:$</string>
+            <key>textureFileName</key>
+            <string>atlas_ID3618.png</string>
+        </dict>
+    </dict>
+</plist>

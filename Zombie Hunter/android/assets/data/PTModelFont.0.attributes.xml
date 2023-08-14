@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>2</string>
+                <key>className</key>
+                <string>PTModelFont</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Default Font</string>
+                </dict>
+                <key>Font name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Arial Black</string>
+                </dict>
+                <key>Font size</key>
+                <dict>
+                    <key>value</key>
+                    <string>70.000000</string>
+                    <key>variableValue</key>
+                    <string>1.000000</string>
+                </dict>
+                <key>Shadow Offset</key>
+                <dict>
+                    <key>value</key>
+                    <string>{3.000,-3.000}</string>
+                </dict>
+                <key>Canvas size</key>
+                <dict>
+                    <key>value</key>
+                    <string>{512.000,832.000}</string>
+                </dict>
+                <key>Main Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>255.000000</string>
+                    <key>g</key>
+                    <string>248.000000</string>
+                    <key>b</key>
+                    <string>24.000000</string>
+                    <key>a</key>
+                    <string>255.000000</string>
+                </dict>
+                <key>Gradient Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>100.000000</string>
+                    <key>g</key>
+                    <string>100.000000</string>
+                    <key>b</key>
+                    <string>100.000000</string>
+                    <key>a</key>
+                    <string>255.000000</string>
+                </dict>
+                <key>Stroke Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>255.000000</string>
+                    <key>g</key>
+                    <string>255.000000</string>
+                    <key>b</key>
+                    <string>255.000000</string>
+                    <key>a</key>
+                    <string>255.000000</string>
+                </dict>
+                <key>Shadow Color</key>
+                <dict>
+                    <key>r</key>
+                    <string>0.000000</string>
+                    <key>g</key>
+                    <string>0.000000</string>
+                    <key>b</key>
+                    <string>0.000000</string>
+                    <key>a</key>
+                    <string>125.000000</string>
+                </dict>
+                <key>Draw Gradient</key>
+                <dict>
+                    <key>value</key>
+                    <string>0</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
